@@ -1,0 +1,53 @@
+.container{
+    max-width: 50%;
+    margin: 0, auto;
+    text-align: justify;
+}
+
+legend{
+    border: solid 1px none, #4c9393 ;
+    font-family: sans-serif;
+    border-radius: 45px;
+    
+    background-color: #c3c4c4;
+}
+
+.parrafo{
+    margin: 0, auto;
+    max-width: 50%;
+    text-align: justify;
+}
+
+body{
+    font-family: sans-serif;
+    background: #4c9393;
+}
+
+#mifoto{
+    margin: 5px;
+    border: solid 4px;
+    margin-bottom: 30px;
+
+
+}
+
+fieldset{
+    color: black;
+
+}
+
+.dg{
+    border-color: #4c9393;
+}
+
+.ht{
+    border-color: #4c9393;
+}
+
+.dc{
+    border-color: #4c9393;
+}
+
+.co{
+    border-color: #4c9393;
+}
